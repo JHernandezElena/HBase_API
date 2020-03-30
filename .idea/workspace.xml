@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2218569-a4ea-4aac-abb5-8a52f995f59e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Dia1/src/main/java/edu/comillas/mibd/AA_CreateNamespace.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dia1/src/main/java/edu/comillas/mibd/AA_CreateNamespace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia1/src/main/java/edu/comillas/mibd/BAA_CreateTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dia1/src/main/java/edu/comillas/mibd/BAA_CreateTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia1/src/main/java/edu/comillas/mibd/BA_CreateTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dia1/src/main/java/edu/comillas/mibd/BA_CreateTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia1/src/main/java/edu/comillas/mibd/BB_CreateTablePresplit.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dia1/src/main/java/edu/comillas/mibd/BB_CreateTablePresplit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia1/src/main/java/edu/comillas/mibd/CA_PutExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dia1/src/main/java/edu/comillas/mibd/CA_PutExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia1/src/main/java/edu/comillas/mibd/CB_PutListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dia1/src/main/java/edu/comillas/mibd/CB_PutListExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia1/src/main/java/edu/comillas/mibd/CC_ModifyExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dia1/src/main/java/edu/comillas/mibd/CC_ModifyExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia1/src/main/java/edu/comillas/mibd/DA_GetExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dia1/src/main/java/edu/comillas/mibd/DA_GetExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia1/src/main/java/edu/comillas/mibd/DB_GetListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dia1/src/main/java/edu/comillas/mibd/DB_GetListExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia1/src/main/java/edu/comillas/mibd/EA_DeleteExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dia1/src/main/java/edu/comillas/mibd/EA_DeleteExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia1/src/main/java/edu/comillas/mibd/EB_DeleteTableExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dia1/src/main/java/edu/comillas/mibd/EB_DeleteTableExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia1/src/main/java/edu/comillas/mibd/EC_DeleteNamespaceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dia1/src/main/java/edu/comillas/mibd/EC_DeleteNamespaceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia1/src/main/java/edu/comillas/mibd/ZA_CargarDatos.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dia1/src/main/java/edu/comillas/mibd/ZA_CargarDatos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia2/src/main/java/edu/comillas/mibd/AAA_ScanExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dia2/src/main/java/edu/comillas/mibd/AAA_ScanExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia2/src/main/java/edu/comillas/mibd/AA_ScanExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dia2/src/main/java/edu/comillas/mibd/AA_ScanExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia2/src/main/java/edu/comillas/mibd/BA_RowFilterExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dia2/src/main/java/edu/comillas/mibd/BA_RowFilterExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia2/src/main/java/edu/comillas/mibd/BB_FamilyFilterExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dia2/src/main/java/edu/comillas/mibd/BB_FamilyFilterExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia2/src/main/java/edu/comillas/mibd/BC_QualifierFilterExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dia2/src/main/java/edu/comillas/mibd/BC_QualifierFilterExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia2/src/main/java/edu/comillas/mibd/BD_ValueFilterExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dia2/src/main/java/edu/comillas/mibd/BD_ValueFilterExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia2/src/main/java/edu/comillas/mibd/BE_SingleColumnValueFilterExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dia2/src/main/java/edu/comillas/mibd/BE_SingleColumnValueFilterExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia2/src/main/java/edu/comillas/mibd/BF_FilterListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dia2/src/main/java/edu/comillas/mibd/BF_FilterListExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia2/src/main/java/edu/comillas/mibd/BG_PageFilterExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dia2/src/main/java/edu/comillas/mibd/BG_PageFilterExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia2/src/main/java/edu/comillas/mibd/BH_PrefixFilterExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dia2/src/main/java/edu/comillas/mibd/BH_PrefixFilterExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia2/src/main/java/edu/comillas/mibd/CA_OtrosFiltrosExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dia2/src/main/java/edu/comillas/mibd/CA_OtrosFiltrosExample.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="hbaseapi" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YJI35pDCcQDc4LMmZM9DAYSelF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MongoDBAlumno" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.comillas.mibd" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CA_OtrosFiltrosExample">
+    <configuration name="BD_ValueFilterExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.comillas.mibd.BD_ValueFilterExample" />
+      <module name="Dia2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.comillas.mibd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BE_SingleColumnValueFilterExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.comillas.mibd.BE_SingleColumnValueFilterExample" />
+      <module name="Dia2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.comillas.mibd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BF_FilterListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.comillas.mibd.BF_FilterListExample" />
+      <module name="Dia2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.comillas.mibd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BH_PrefixFilterExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.comillas.mibd.BH_PrefixFilterExample" />
+      <module name="Dia2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.comillas.mibd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CA_OtrosFiltrosExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.comillas.mibd.CA_OtrosFiltrosExample" />
+      <module name="Dia2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.comillas.mibd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CA_OtrosFiltrosExample" />
+        <item itemvalue="Application.BE_SingleColumnValueFilterExample" />
+        <item itemvalue="Application.BH_PrefixFilterExample" />
+        <item itemvalue="Application.BF_FilterListExample" />
+        <item itemvalue="Application.BD_ValueFilterExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2218569-a4ea-4aac-abb5-8a52f995f59e" name="Default Changelist" comment="" />
+      <created>1582654068433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582654068433</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="768" y="174" width="424" height="574" key="FileChooserDialogImpl" timestamp="1584554631078">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="768" y="174" width="424" height="574" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1584554631078" />
+    <state width="1784" height="234" key="GridCell.Tab.0.bottom" timestamp="1583435649179">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1784" height="234" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1583435649179" />
+    <state width="1784" height="234" key="GridCell.Tab.0.center" timestamp="1583435649174">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1784" height="234" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1583435649174" />
+    <state width="1784" height="234" key="GridCell.Tab.0.left" timestamp="1583435649174">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1784" height="234" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1583435649174" />
+    <state width="1784" height="234" key="GridCell.Tab.0.right" timestamp="1583435649175">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1784" height="234" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1583435649175" />
+    <state width="1804" height="299" key="GridCell.Tab.1.bottom" timestamp="1583345319793">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="299" key="GridCell.Tab.1.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1583345319793" />
+    <state width="1804" height="299" key="GridCell.Tab.1.center" timestamp="1583345319792">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="299" key="GridCell.Tab.1.center/70.27.1850.1053@70.27.1850.1053" timestamp="1583345319792" />
+    <state width="1804" height="299" key="GridCell.Tab.1.left" timestamp="1583345319792">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="299" key="GridCell.Tab.1.left/70.27.1850.1053@70.27.1850.1053" timestamp="1583345319792" />
+    <state width="1804" height="299" key="GridCell.Tab.1.right" timestamp="1583345319792">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="299" key="GridCell.Tab.1.right/70.27.1850.1053@70.27.1850.1053" timestamp="1583345319792" />
+    <state x="484" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1582654729566">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="484" y="188" width="1022" height="737" key="SettingsEditor/70.27.1850.1053@70.27.1850.1053" timestamp="1582654729566" />
+    <state x="651" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1584554458207">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="651" y="381" key="com.intellij.ide.util.TipDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1584554458207" />
+    <state x="294" y="60" width="1372" height="803" key="new project wizard" timestamp="1584280983745">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="294" y="60" width="1372" height="803" key="new project wizard/70.27.1850.1053@70.27.1850.1053" timestamp="1584280983745" />
+  </component>
+</project>

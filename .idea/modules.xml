@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dia1/Dia1.iml" filepath="$PROJECT_DIR$/Dia1/Dia1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dia2/Dia2.iml" filepath="$PROJECT_DIR$/Dia2/Dia2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbaseapi.iml" filepath="$PROJECT_DIR$/hbaseapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utilidades/utilidades.iml" filepath="$PROJECT_DIR$/utilidades/utilidades.iml" />
+    </modules>
+  </component>
+</project>
